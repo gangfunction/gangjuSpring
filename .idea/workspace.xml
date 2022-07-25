@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d09cfb77-e288-48f5-b635-217d695ba6e6" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/factory/FactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/beans/factory/MessageFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/UserDaojdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/domain/Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/BaseSqlService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/ConcurrentHashMapSqlRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/DefaultSqlService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/HashMapSqlRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/JaxbXmlSqlReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/OxmSqlService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/SqlAdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/SqlReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/SqlRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/SqlRetrievalFailureException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/SqlService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/UpdatableSqlRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/XmlSqlService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/issuetracker/sqlService/updatable/EmbeddedDbSqlRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learningtest/spring/pointcut/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/learningtest/spring/pointcut/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mail/MailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mail/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/HelloTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/HelloUppercase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/TransactionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/proxy/UppercaseHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/MockMailSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/TestUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/TestUserServiceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/TxProxyFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/webapp/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/FactoryBeanTest-content.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/OxmTest-context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/junit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/sqlmap.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ConcurrentHashMapRegistryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DynamicProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/EmbeddedDbTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/FactoryBeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HelloTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/JUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PointcutExpresiionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/UserTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2BpXP4ObBkt8cVNrruAxP2gzRfk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "spring.configuration.checksum": "e076b9fd91c8fc8e8ade25b58d9c5595"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "com.intellij.ide.scratch.LRUPopupBuilder$1/SQL 파생 언어": [
+      "HSQLDB"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/src/main/java/CalcSumTest" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserServiceTest.upgradeLevels">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="gangjuSpring" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.upgradeLevels" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="gangjuSpring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UserServiceTest" />
+      <option name="METHOD_NAME" value="upgradeLevels" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceTest.upgradeLevels" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="d09cfb77-e288-48f5-b635-217d695ba6e6" name="변경" comment="" />
+      <created>1657603975619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657603975619</updated>
+      <workItem from="1657603977245" duration="6605000" />
+      <workItem from="1657614475206" duration="34416000" />
+      <workItem from="1657856988466" duration="17027000" />
+      <workItem from="1657959830731" duration="31455000" />
+      <workItem from="1658065080441" duration="1988000" />
+      <workItem from="1658104107452" duration="502000" />
+      <workItem from="1658104645372" duration="483000" />
+      <workItem from="1658105256683" duration="9333000" />
+      <workItem from="1658130873780" duration="1537000" />
+      <workItem from="1658190064933" duration="2058000" />
+      <workItem from="1658201427761" duration="10185000" />
+      <workItem from="1658649402637" duration="30567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
