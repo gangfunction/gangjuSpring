@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d09cfb77-e288-48f5-b635-217d695ba6e6" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Real-World_Software_Development/01BankAnalyzer/src/BankStatementCSVParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Real-World_Software_Development/01BankAnalyzer/src/BankTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Real-World_Software_Development/01BankAnalyzer/src/BankStatementProcessor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "spring.configuration.checksum": "784df6dc3595119500aea1188a6ee871"
+    "spring.configuration.checksum": "84efaf0ef5cd05ee7945a7dd3c81dcee"
   },
   "keyToStringList": {
     "DatabaseDriversLRU": [
@@ -126,19 +125,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="PracticalJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="PracticalJava" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.UserServiceTest.upgradeLevels" />
@@ -168,7 +154,8 @@
       <workItem from="1662362044377" duration="92000" />
       <workItem from="1662444527129" duration="2000" />
       <workItem from="1663898223318" duration="1000" />
-      <workItem from="1668324203683" duration="4362000" />
+      <workItem from="1668324203683" duration="7097000" />
+      <workItem from="1668383290622" duration="2849000" />
     </task>
     <servers />
   </component>
