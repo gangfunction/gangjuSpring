@@ -7,5 +7,7 @@ public class BankStatementProcessor {
         this.bankTransaction = bankTransactions;
 
     }
-    public double calculateTotalAmount()
+    public double calculateTotalAmount(){
+        return 0;
+    }
 }

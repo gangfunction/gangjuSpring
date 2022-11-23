@@ -5,8 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d09cfb77-e288-48f5-b635-217d695ba6e6" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/Real-World_Software_Development/01BankAnalyzer/src/BankStatementProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/factorybean/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/pointcut/Bean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/pointcut/Target.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/pointcut/TargetInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/java/beans/factory/FactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/SqlService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Real-World_Software_Development/01BankAnalyzer/src/BankStatementProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Real-World_Software_Development/01BankAnalyzer/src/BankStatementProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/ReflectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/ReflectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/junit/JUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/junit/JUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/junit/junit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/junit/junit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/proxy/DynamicProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/proxy/DynamicProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/proxy/sqlmap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/proxy/sqlmap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/embeddeddb/EmbeddedDbTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/embeddeddb/EmbeddedDbTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/embeddeddb/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/embeddeddb/data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/embeddeddb/schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/embeddeddb/schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/factorybean/FactoryBeanTest-content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/factorybean/FactoryBeanTest-content.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/factorybean/FactoryBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/factorybean/FactoryBeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/factorybean/Message.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/factorybean/MessageFactoryBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/factorybean/MessageFactoryBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/pointcut/Bean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/pointcut/PointcutExpressionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/learningtest/spring/pointcut/PointcutExpressionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/pointcut/Target.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/learningtest/spring/pointcut/TargetInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/test/java/AppContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/test/AppContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/test/java/ConcurrentHashMapRegistryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/test/ConcurrentHashMapRegistryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/test/java/HelloTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/test/HelloTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/test/java/SqlServiceContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/test/SqlServiceContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/test/java/TestApplicationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/test/TestApplicationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/test/java/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/test/UserTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/dao/Dao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/dao/Dao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/dao/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/dao/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/dao/UserDaoJdbc.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/dao/UserDaoJdbc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/domain/Level.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/domain/Level.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/java/beans/factory/FactoryBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/java/beans/factory/userdao.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/java/beans/factory/userdao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/java/mail/MailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/java/mail/MailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/java/mail/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/java/mail/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/java/webapp/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/java/webapp/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/resources/OxmTest-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/resources/OxmTest-context.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/resources/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/resources/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/service/DummyMailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/service/DummyMailSender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/service/TestUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/service/TestUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/service/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/service/UserServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/BaseSqlService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/BaseSqlService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/DefaultSqlService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/DefaultSqlService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/JaxbXmlSqlReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/JaxbXmlSqlReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/OxmSqlService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/OxmSqlService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/SqlMapConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/SqlMapConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/SqlReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/SqlReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/SqlRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/SqlRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/SqlRetrievalFailureException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/SqlRetrievalFailureException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/SqlService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/UpdatableSqlRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/UpdatableSqlRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/UserSqlMapConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/UserSqlMapConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/XmlSqlService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/XmlSqlService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/jaxb/ObjectFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/jaxb/ObjectFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/updatable/ConcurrentHashMapSqlRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/updatable/ConcurrentHashMapSqlRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/updatable/EmbeddedDbSqlRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/updatable/EmbeddedDbSqlRegistry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tobi_Spring/src/springbook/user/sqlService/updatable/HashMapSqlRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tobi_Spring/src/main/springbook/user/sqlService/updatable/HashMapSqlRegistry.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +126,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "라이브러리",
+    "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -156,6 +220,7 @@
       <workItem from="1663898223318" duration="1000" />
       <workItem from="1668324203683" duration="7097000" />
       <workItem from="1668383290622" duration="2849000" />
+      <workItem from="1669210811314" duration="749000" />
     </task>
     <servers />
   </component>
